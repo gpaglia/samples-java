@@ -12,5 +12,4 @@ target
 /bin
 .classpath
 .project
-org.eclipse.buildship.core.prefs
-org.eclipse.jdt.core.prefs
+.settings
