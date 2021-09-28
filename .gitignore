@@ -7,3 +7,10 @@ target
 .gradle
 /build
 /out
+
+# added GP
+/bin
+.classpath
+.project
+org.eclipse.buildship.core.prefs
+org.eclipse.jdt.core.prefs
